@@ -1,0 +1,19 @@
+# Список тестовых заданий для тестировщиков
+
+Данный репозиторий создан тестировщиком для тестировщиков. [Подробнее о проекте](https://artsiomrusau.com).
+
+---
+
+По мере выполнения заданий, я буду отмечать их в этом файле.
+## Задания 
+
+* [API](https://github.com/artichokeee/test-assignments/tree/main/Список%20тестовых%20заданий/API)
+* [Automation](https://github.com/artichokeee/test-assignments/tree/main/Список%20тестовых%20заданий/Automation)
+* [Documentation](https://github.com/artichokeee/test-assignments/tree/main/Список%20тестовых%20заданий/Documentation)
+* [General](https://github.com/artichokeee/test-assignments/tree/main/Список%20тестовых%20заданий/General)
+* [Mobile](https://github.com/artichokeee/test-assignments/tree/main/Список%20тестовых%20заданий/Mobile)
+* [SQL](https://github.com/artichokeee/test-assignments/tree/main/Список%20тестовых%20заданий/SQL)
+* [Test Design](https://github.com/artichokeee/test-assignments/tree/main/Список%20тестовых%20заданий/Test%20Design)
+* [Web](https://github.com/artichokeee/test-assignments/tree/main/Список%20тестовых%20заданий/Web)
+* [Примеры задач на собеседованиях и тестовых заданий (статья)](https://vladislaveremeev.gitbook.io/qa_bible/prakticheskaya-chast/primery-zadach-na-sobesedovaniyakh-i-testovykh-zadanii)
+ 
